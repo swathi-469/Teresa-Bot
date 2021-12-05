@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 extract_download_url() {
 
