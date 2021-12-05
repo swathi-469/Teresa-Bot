@@ -13,3 +13,4 @@ Pillow==6.2.1
 protobuf==3.10.0
 rospkg==1.1.10
 tensorflow==2.0.0
+alternate
