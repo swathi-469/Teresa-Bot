@@ -44,7 +44,7 @@ if __name__ == '__main__':
     ret_val, image = cam.read()
     logger.info('cam image=%dx%d' % (image.shape[1], image.shape[0]))
 
-    # count = 0
+    
     while True:
         
         logger.debug('+image processing+')
